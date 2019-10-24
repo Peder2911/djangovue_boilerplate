@@ -2,3 +2,4 @@
 *.sqlite3
 ./frontend/node_modules/*
 *.pyc
+*.log
