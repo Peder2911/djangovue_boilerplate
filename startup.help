@@ -1,0 +1,7 @@
+
+// In .
+./manage.py livereload --ignore-static-dirs
+./manage.py runserver
+
+// In ./frontend
+npm run serve
